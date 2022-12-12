@@ -1,6 +1,7 @@
-# TESTSHOP
-
-#download the file or clone it using githup descktop 
-#create a database with the name of 'store'
-# import the store.sql database file to import all the neccery data
-#by default there is a user with admin role with credential admin@gmail.com and pwd is 'abc@12345'
+# المتجر
+قم بتنزيل الملف المضغوط ثم استخرجه او انسخه بواسطة githup descktop
+#فاعدة البيانات
+قم بتنزيل ملف قاعدة البيانات  ثم قم بانشاء قاعدة بيانات على السيرفر ثم استيراد ملف قاعدة البيانات الزي قمت بتنزيله
+# صلاحيات الدخول
+عند استيراد قاعدة البيانات تاتي ببيانات اولية من ضمنها معلومات تسجيل الدخول كمستخدم مسؤول موضحة ادناه
+email ='admin@gmail.com' and pwd is 'abc@12345'
